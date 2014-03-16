@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="7e949842-6e4c-4bfb-9e17-e596de754a4c" 
+        solutionId="7e949842-6e4c-4bfb-9e17-e596de754a4c" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePointApp5"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="d5f0c7f3-6ced-48cb-9398-cd79c7d6596a" />
+  </features>
+</package>
